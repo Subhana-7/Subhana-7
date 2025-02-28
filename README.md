@@ -4,9 +4,11 @@
 
 I'm passionate about web development and continuously improving my skills in the MERN stack. Always eager to learn and explore new technologies in this ever-evolving field.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?subhana-7&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+## About Me
+
+ -- Full-stack developer (MERN Stack)
+ -- Always learning and improving my skills
+ -- Passionate about problem-solving and DSA
 
 ## 💻 Technologies & Tools
 
@@ -42,8 +44,3 @@ I'm passionate about web development and continuously improving my skills in the
 </div>
 
 
-
-<!-- Add this to create a snake animation of your contribution graph -->
-<div align="center">
-  <img src="https://github.com/subhana-7/subhana-7/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
