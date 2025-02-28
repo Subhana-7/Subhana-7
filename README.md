@@ -6,9 +6,10 @@ I'm passionate about web development and continuously improving my skills in the
 
 ## About Me
 
- -- Full-stack developer (MERN Stack)
- -- Always learning and improving my skills
- -- Passionate about problem-solving and DSA
+🚀 **Full-stack developer (MERN Stack)**  
+📚 **Always learning and improving my skills**  
+🧩 **Passionate about problem-solving and DSA**  
+💡 **Turning ideas into functional, elegant applications**    
 
 ## 💻 Technologies & Tools
 
